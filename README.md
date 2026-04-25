@@ -1,7 +1,7 @@
 # Agricultural WSN Ground-Truthing
 **Bridging the gap between orbital soil moisture observations and high-fidelity terrestrial in-situ data.**
 
-[![Preprint](https://img.shields.io/badge/Preprint-TechRxiv-blue)](INSERT_TECHRXIV_DOI_LINK_HERE)
+[![Preprint](https://img.shields.io/badge/Preprint-TechRxiv-blue)]([Pending_TechRxiv_Transition])
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Affiliation](https://img.shields.io/badge/Affiliation-Jadavpur_University-red)](https://jadavpuruniversity.in/)
 
@@ -37,7 +37,7 @@ This framework is an end-to-end Wireless Sensor Network (WSN) designed to provid
 
 ## ⚖️ Citation
 If you utilize this framework or dataset, please cite the preprint:
-> Das, A. (2026). "Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events." TechRxiv. DOI: [INSERT DOI]
+> Das, A. (2026). "Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events." TechRxiv. DOI: [Pending TechRxiv Transition]
 
 ---
 **Maintained by Aayushman Das** *Department of Electronics and Telecommunication Engineering, Jadavpur University*
