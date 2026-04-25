@@ -1,0 +1,6 @@
+# Master Ignore
+**/secrets.h
+**/.pio/
+**/.vscode/
+**/*.bin
+**/*.elf

@@ -1,0 +1,17 @@
+Category,Component,Specification,Purpose,Qty (Total)
+Microcontrollers,ESP32-WROOM-32U,38-Pin Wide (U.FL connector),Central Hub MCU,1
+,ESP32-WROOM-32,30-Pin Standard,Remote Node MCU,5
+Sensors,BME280,I2C (Temp/Humid/Pressure),Atmospheric Ground-Truthing,6
+,SEN0193,Capacitive Soil Moisture,Terrestrial Soil Moisture,5
+,Voltage Sensor,VCC < 25V (0.1V Res.),Battery/Solar Monitoring,5
+Power (Node),HT7333-A,3.3V Low Dropout (LDO),Ultra-low power regulation,5
+,TP4056,1A Li-ion Charging Module,Solar charging controller,5
+,Solar Panel,5V / 250mW (Monocrystalline),Energy harvesting,5
+,18650 Battery,3.7V Li-ion (2600mAh+),Node power source,5
+Power (Hub),Wall Adapter,5V 1A Micro-USB/Type-C,Continuous Hub power,1
+Storage/Time,Micro SD Module,SPI Interface (5V Compatible),Local Data Redundancy,1
+,DS3231 RTC,I2C High-Accuracy Clock,Precise Data Timestamping,1
+Peripherals,OLED Display,"0.96"" I2C (128x64)",Real-time Hub Telemetry,1
+,SMA Antenna,2.4GHz High Gain (External),Long-range ESP-NOW link,1
+Hardware,IP65 Enclosures,Waterproof ABS Plastic,Field node protection,5
+,Connectors,JST-PH 2.0 / Screw Terminals,Modular wiring,10+
