@@ -22,7 +22,7 @@ This framework is an end-to-end Wireless Sensor Network (WSN) designed to provid
 
 ## 📂 Repository Structure
 * **/firmware** - Source code for Central Hub & Remote Nodes.
-* **/hardware** - Fusion 360 CAD models, Fritzing schematics, and BOM.
+* **/hardware** - Fusion 360 CAD models, KiCad schematics and BOM.
 * **/scripts** - Python scripts for heuristic noise reduction and NASA SMAP correlation.
 * **/docs** - Full IEEE-format technical paper and assembly manuals.
 
