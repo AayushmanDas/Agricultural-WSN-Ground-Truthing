@@ -25,7 +25,7 @@ uint8_t hubAddress[] = HUB_MAC_ADDRESS;
 
 // --- Sleep Configuration ---
 #define uS_TO_S_FACTOR 1000000ULL  // Conversion factor for micro seconds to seconds
-#define TIME_TO_SLEEP  1800         // Sleep duration: 900 seconds = 15 minutes
+#define TIME_TO_SLEEP  1800         // Sleep duration: 1800 seconds = 30 minutes
 
 // --- Pin Definitions ---
 const int SOIL_PIN = 34; 
