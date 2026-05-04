@@ -1,9 +1,10 @@
 # Agricultural WSN Ground-Truthing
 **Bridging the gap between orbital soil moisture observations and high-fidelity terrestrial in-situ data.**
 
-[![Preprint](https://img.shields.io/badge/Preprint-TechRxiv-blue)]([Pending_TechRxiv_Transition])
+[![Preprint](https://img.shields.io/badge/Preprint-ResearchGate-brightgreen)](https://doi.org/10.13140/RG.2.2.25746.00967)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Affiliation](https://img.shields.io/badge/Affiliation-Jadavpur_University-red)](https://jadavpuruniversity.in/)
+[![Field Deployment Timelapse](https://img.shields.io/badge/Video-Deployment_Timelapse-red?logo=youtube&logoColor=white)](https://youtu.be/H9H4Q9YUmYc)
 
 ## 📡 Research Objective
 This framework is an end-to-end Wireless Sensor Network (WSN) designed to provide a local baseline for the validation of NASA's SMAP (Soil Moisture Active Passive) satellite products. By deploying synchronized sensor nodes in tropical micro-climates, the system identifies localized discrepancies that 9km orbital estimates cannot resolve.
@@ -24,7 +25,8 @@ This framework is an end-to-end Wireless Sensor Network (WSN) designed to provid
 * **/firmware** - Source code for Central Hub & Remote Nodes.
 * **/hardware** - Fusion 360 CAD models, KiCad schematics and BOM.
 * **/scripts** - Python scripts for heuristic noise reduction and NASA SMAP correlation.
-* **/docs** - Full IEEE-format technical paper and assembly manuals.
+* **/docs** - Full IEEE-format technical paper and technical abstract.
+* **/media** - Images and Video links showcasing the production procedure.
 
 ## 🛠️ Hardware Specifications
 | Component | Detail |
@@ -37,7 +39,7 @@ This framework is an end-to-end Wireless Sensor Network (WSN) designed to provid
 
 ## ⚖️ Citation
 If you utilize this framework or dataset, please cite the preprint:
-> Das, A. (2026). "Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events." TechRxiv. DOI: [Pending TechRxiv Transition]
+> Das, A. (2026). "Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events." ResearchGate. DOI: [10.13140/RG.2.2.25746.00967](https://doi.org/10.13140/RG.2.2.25746.00967)
 
 ---
 **Maintained by Aayushman Das** *Department of Electronics and Telecommunication Engineering, Jadavpur University*
